@@ -91,6 +91,7 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ## OUTPUT:
+![Screenshot (168)](https://github.com/ARIVAZHAGAN04/simplewebserver/assets/161414455/7993c078-c441-40f2-9d22-19e5cdde9bbf)
 
 
 
